@@ -1,10 +1,10 @@
 
 
-##### build
+###Build
 
 `sbt clean package`
 
-##### run
+### Run
 
 ```bash
 $ spark-submit --master {URI} \ 
